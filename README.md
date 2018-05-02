@@ -1,1 +1,17 @@
 # Lung-Cancer-Segmentation-CBCT
+
+# Localization Module
+
+process(): Implements localization algorithm 1
+process2(): Implements localization algorithm 2
+
+process_all(): Call process() or process2() for all scans
+
+# Segmentation Module
+
+main.py: For feature extraction and classifier training purposes
+deploy_main.py: Classification of test images using a saved model
+
+# False-Positive Suppression
+
+hierarchical_clustering.py: Implements hierarchical clustering on segmentation output map
