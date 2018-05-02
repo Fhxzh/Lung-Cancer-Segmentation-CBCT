@@ -21,3 +21,9 @@ hierarchical_clustering.py: Implements hierarchical clustering on segmentation o
 # Illustrations of the results
 
 <img src="https://raw.githubusercontent.com/brcsomnath/Lung-Cancer-Segmentation-CBCT/master/Results/output_groundtruth.png" width="400"> <img src="https://raw.githubusercontent.com/brcsomnath/Lung-Cancer-Segmentation-CBCT/master/Results/output_prediction.png" width="400"> <br>
+
+<img src="https://raw.githubusercontent.com/brcsomnath/Lung-Cancer-Segmentation-CBCT/master/Results/output_groundtruth0.png" width="400"> <img src="https://raw.githubusercontent.com/brcsomnath/Lung-Cancer-Segmentation-CBCT/master/Results/output_prediction0.png" width="400"> <br>
+
+<img src="https://raw.githubusercontent.com/brcsomnath/Lung-Cancer-Segmentation-CBCT/master/Results/output_groundtruth1.png" width="400"> <img src="https://raw.githubusercontent.com/brcsomnath/Lung-Cancer-Segmentation-CBCT/master/Results/output_prediction1.png" width="400"> <br>
+
+<img src="https://raw.githubusercontent.com/brcsomnath/Lung-Cancer-Segmentation-CBCT/master/Results/output_groundtruth3.png" width="400"> <img src="https://raw.githubusercontent.com/brcsomnath/Lung-Cancer-Segmentation-CBCT/master/Results/output_prediction3.png" width="400"> <br>
